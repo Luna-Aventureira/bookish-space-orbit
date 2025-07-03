@@ -1,0 +1,110 @@
+Nome,AnoNascimento,Genero,InicioJogo,FimJogo,HitsSofridos,Pergunta,Opcoes,RespostaSelecionada,RespostaCorreta,Acertou,Status
+1,1902,1,14/05/2025 23:59:36,14/05/2025 23:59:59,3,,,,,,DERROTA
+2,1960,123,15/05/2025 00:00:17,14/05/2025 23:59:59,3,Quanto é 2+2?,3|4|5,2,1,False,DERROTA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:00:38,3,,,,,,DERROTA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:29,3,Quanto é 2+2?,5|3|4,2,2,True,VITÓRIA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:29,3,Ano do descobrimento do Brasil?,1492|1500|1502,1,1,True,VITÓRIA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:29,3,Qual é a capital do Brasil?,Rio de Janeiro|Brasília|São Paulo,1,1,True,VITÓRIA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:29,3,,,,,,VITÓRIA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:29,6,Ano do descobrimento do Brasil?,1502|1500|1492,0,1,False,VITÓRIA
+2,1960,123,15/05/2025 00:00:17,15/05/2025 00:01:55,6,,,,,,DERROTA
+1,1905,2,15/05/2025 00:06:06,01/01/0001 00:00:00,3,Qual é a capital do Brasil?,Brasília|Rio de Janeiro|São Paulo,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,01/01/0001 00:00:00,3,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,3,Qual é a capital do Brasil?,Brasília|Rio de Janeiro|São Paulo,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,3,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,6,Qual é a capital do Brasil?,Brasília|Rio de Janeiro|São Paulo,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,6,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,6,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:25,6,Quanto é 2+2?,4|5|3,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:50,6,Qual é a capital do Brasil?,Brasília|Rio de Janeiro|São Paulo,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:50,6,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:50,6,Ano do descobrimento do Brasil?,1500|1502|1492,1,0,False,DERROTA
+1,1905,2,15/05/2025 00:06:06,15/05/2025 00:06:50,6,Quanto é 2+2?,4|5|3,1,0,False,DERROTA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Quanto é 2+2?,3|5|4,2,2,True,VITÓRIA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Ano do descobrimento do Brasil?,1502|1500|1492,1,1,True,VITÓRIA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Qual é a capital do Brasil?,Rio de Janeiro|Brasília|São Paulo,1,1,True,VITÓRIA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Quanto é 2+2?,3|5|4,2,2,True,VITÓRIA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Ano do descobrimento do Brasil?,1502|1500|1492,1,1,True,VITÓRIA
+8,2000,8,15/05/2025 00:07:08,15/05/2025 00:07:52,0,Qual é a capital do Brasil?,Rio de Janeiro|Brasília|São Paulo,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,Quem é conhecido por voar com capa vermelha e ter superforça?,Batman|Homem-Aranha|Superman,0,2,False,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,O que usamos para escovar os dentes?,Pente|Colher|Escova de dentes,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,Qual desses animais faz 'miau'?,Gato|Cachorro|Vaca,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,Quem é conhecido por voar com capa vermelha e ter superforça?,Batman|Homem-Aranha|Superman,0,2,False,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,O que usamos para escovar os dentes?,Pente|Colher|Escova de dentes,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:48:35,15/05/2025 20:49:20,1,Qual desses animais faz 'miau'?,Gato|Cachorro|Vaca,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,O que a água vira quando congela?,Areia|Vapor|Gelo,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,Qual é o planeta em que vivemos?,Júpiter|Marte|Terra,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,O que a água vira quando congela?,Areia|Vapor|Gelo,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:49:37,15/05/2025 20:50:34,0,Qual é o planeta em que vivemos?,Júpiter|Marte|Terra,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Qual cor se forma misturando azul e amarelo?,Verde|Laranja|Roxo,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Qual desses animais faz 'miau'?,Vaca|Cachorro|Gato,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Qual cor se forma misturando azul e amarelo?,Verde|Laranja|Roxo,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Qual desses animais faz 'miau'?,Vaca|Cachorro|Gato,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:51:47,0,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual cor se forma misturando azul e amarelo?,Verde|Laranja|Roxo,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual desses animais faz 'miau'?,Vaca|Cachorro|Gato,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,2,1,False,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,O que a água vira quando congela?,Areia|Vapor|Gelo,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Bob Esponja|Sonic,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual cor se forma misturando azul e amarelo?,Verde|Laranja|Roxo,0,0,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual desses animais faz 'miau'?,Vaca|Cachorro|Gato,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,2,1,False,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,O que a água vira quando congela?,Areia|Vapor|Gelo,2,2,True,VITÓRIA
+Jeni,2002,E,15/05/2025 20:50:50,15/05/2025 20:52:40,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Bob Esponja|Sonic,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Bob Esponja|Sonic,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,Quantos dias tem uma semana?,5|7|10,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Bob Esponja|Sonic,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jeni,2002,U,15/05/2025 20:53:03,15/05/2025 20:53:52,0,Quantos dias tem uma semana?,5|7|10,1,1,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,Qual desses animais faz 'miau'?,Vaca|Gato|Cachorro,1,1,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,2,2,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,O que a água vira quando congela?,Vapor|Areia|Gelo,2,2,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,Qual desses animais faz 'miau'?,Vaca|Gato|Cachorro,1,1,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,2,2,True,VITÓRIA
+Fer,1980,Feminino,15/05/2025 20:54:31,15/05/2025 20:55:40,1,O que a água vira quando congela?,Vapor|Areia|Gelo,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Qual cor se forma misturando azul e amarelo?,Laranja|Roxo|Verde,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Quantos dias tem uma semana?,10|5|7,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Qual desses alimentos é uma fruta?,Arroz|Pão|Maçã,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Qual cor se forma misturando azul e amarelo?,Laranja|Roxo|Verde,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Quantos dias tem uma semana?,10|5|7,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:56:04,15/05/2025 20:56:54,0,Qual desses alimentos é uma fruta?,Arroz|Pão|Maçã,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Bob Esponja|Sonic|Mickey,0,0,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,Qual desses alimentos é uma fruta?,Arroz|Maçã|Pão,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Bob Esponja|Sonic|Mickey,0,0,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:57:13,15/05/2025 20:57:58,1,Qual desses alimentos é uma fruta?,Arroz|Maçã|Pão,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,Qual cor se forma misturando azul e amarelo?,Roxo|Verde|Laranja,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,Qual cor se forma misturando azul e amarelo?,Roxo|Verde|Laranja,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:58:17,15/05/2025 20:59:04,0,O que a água vira quando congela?,Vapor|Gelo|Areia,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Qual é o planeta em que vivemos?,Júpiter|Marte|Terra,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Qual desses alimentos é uma fruta?,Arroz|Maçã|Pão,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Quem cuida dos dentes das pessoas?,Professor|Dentista|Padeiro,1,1,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Qual é o planeta em que vivemos?,Júpiter|Marte|Terra,2,2,True,VITÓRIA
+Jenifer,2002,E,15/05/2025 20:59:23,15/05/2025 21:00:11,0,Qual desses alimentos é uma fruta?,Arroz|Maçã|Pão,1,1,True,VITÓRIA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:00:11,3,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,-1,1,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:00:11,3,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:00:11,3,Quantos dias tem uma semana?,5|10|7,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,3,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,-1,1,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,3,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,3,Quantos dias tem uma semana?,5|10|7,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,6,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,-1,1,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,6,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,6,Quantos dias tem uma semana?,5|10|7,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,6,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 21:04:39,6,O que usamos para escovar os dentes?,Pente|Escova de dentes|Colher,2,1,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 22:33:39,6,Qual é o planeta em que vivemos?,Júpiter|Terra|Marte,-1,1,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 22:33:39,6,Qual é o nome do personagem que vive num abacaxi no fundo do mar?,Mickey|Sonic|Bob Esponja,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 22:33:39,6,Quantos dias tem uma semana?,5|10|7,-1,2,False,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 22:33:39,6,Quem é conhecido por voar com capa vermelha e ter superforça?,Homem-Aranha|Superman|Batman,1,1,True,DERROTA
+Teste_Demora_responder,1902,S,15/05/2025 21:01:11,15/05/2025 22:33:39,6,O que usamos para escovar os dentes?,Pente|Escova de dentes|Colher,2,1,False,DERROTA
