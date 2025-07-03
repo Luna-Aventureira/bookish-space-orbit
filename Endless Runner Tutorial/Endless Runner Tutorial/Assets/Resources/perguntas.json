@@ -1,0 +1,19 @@
+{
+    "questions": [
+      {
+        "questionText": "Qual é a capital do Brasil?",
+        "answers": ["Brasília", "Rio de Janeiro", "São Paulo"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Quanto é 2 + 2?",
+        "answers": ["4", "22", "5"],
+        "correctAnswerIndex": 0
+      },
+      {
+        "questionText": "Qual é o maior planeta do sistema solar?",
+        "answers": ["Júpiter", "Saturno", "Terra"],
+        "correctAnswerIndex": 0
+      }
+    ]
+  }
